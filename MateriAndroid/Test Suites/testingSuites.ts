@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>testingSuites</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>cdd3794c-364e-4d91-af79-a8a2af996f5b</testSuiteGuid>
+   <testCaseLink>
+      <guid>1618ff9f-2b10-42c4-bdaf-83818020337c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5e9542f1-e0ef-42e8-87de-4848e3716ea2</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/tesBuilderlama</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>5e9542f1-e0ef-42e8-87de-4848e3716ea2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Judul</value>
+         <variableId>cd0c9e88-16c4-4a72-9b80-151bae0ee131</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5e9542f1-e0ef-42e8-87de-4848e3716ea2</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Durasi</value>
+         <variableId>d713e634-e7ce-4147-a896-a344f182a357</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6582014e-96e3-430c-9e49-54452b587ecc</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

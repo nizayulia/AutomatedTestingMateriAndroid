@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4aac86c1-af12-461b-82ea-b5fb29d8e9ae</testCaseGuid>
+   <variable>
+      <defaultValue>'A'</defaultValue>
+      <description></description>
+      <id>cd0c9e88-16c4-4a72-9b80-151bae0ee131</id>
+      <masked>false</masked>
+      <name>Judul</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>d713e634-e7ce-4147-a896-a344f182a357</id>
+      <masked>false</masked>
+      <name>Durasi</name>
+   </variable>
+   <variable>
+      <defaultValue>'ini 255 karakter ini 255 karakter ini 255 karakter ini 255 karakter ini 255 karakter ini 255 karakter ini 255 karakter ini 255 karakter ini 255 karakter ini 255 karakter ini 255 karakter ini 255 karakter ini 255 karakter ini 255 karakter ini 255 karakterr'</defaultValue>
+      <description></description>
+      <id>6582014e-96e3-430c-9e49-54452b587ecc</id>
+      <masked>false</masked>
+      <name>pertanyaan</name>
+   </variable>
+</TestCaseEntity>

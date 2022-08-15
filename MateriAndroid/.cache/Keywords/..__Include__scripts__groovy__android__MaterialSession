@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "0641EE9BED21F8C97946E7B378454FFC",
+  "keywordClasses": [
+    {
+      "name": "android.MaterialSession",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
